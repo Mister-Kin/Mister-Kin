@@ -2,7 +2,7 @@
 Hi! I'm Mr. Kin whose goal is to be an interesting geek.
 
 # Follow Me
-![WechatOfficialAccounts](./WechatOfficialAccounts-En.webp)
+![Search to Follow WeChat Official Accounts: MisterKin](./WeChatOfficialAccounts-En.webp "Scan/Search to Follow WeChat Official Accounts: MisterKin")
 
 > [Blog][] · [Github][] · [Weibo][] · [Zhihu][] · [Bilibili][] · [Youku][] · [Headline][] · [Youtube][]
 
