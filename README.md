@@ -17,7 +17,7 @@ Hi! I'm Mr. Kin whose goal is to be an interesting geek.
 
 # Contact Me
 - E-mail: im.misterkin@gmail.com
-- QQ：[2312463626](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2312463626&website=www.oicqzone.com)
+- QQ: [2312463626](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2312463626&website=www.oicqzone.com)
 
 P.S. Please tell me your name when you contact me. Thanks in advance.
 
