@@ -22,3 +22,8 @@ Hi! I'm Mr. Kin whose goal is to be an interesting geek.
 P.S. Please tell me your name when you contact me. Thanks in advance.
 
 ![My GitHub Data](https://github-readme-stats.vercel.app/api?username=Mister-Kin) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mister-Kin&layout=compact)
+
+<p align="center">
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/Mister-Kin/count.svg" />
+</p>
