@@ -4,16 +4,17 @@ Hi! I'm Mr. Kin whose goal is to be an interesting geek.
 # Follow Me
 ![Search to Follow WeChat Official Accounts: MisterKin](./wechat_official_accounts_en.webp "Scan/Search to Follow WeChat Official Accounts: MisterKin")
 
-> [Blog][] · [Github][] · [Weibo][] · [Zhihu][] · [Bilibili][] · [Youku][] · [Headline][] · [Youtube][]
+> [Blog][] · [GitHub][] · [Weibo][] · [Zhihu][] · [AcFun][] · [Bilibili][] · [Youku][] · [Headline][] · [YouTube][]
 
 [Blog]: https://mister-kin.github.io
-[Github]: https://github.com/mister-kin
+[GitHub]: https://github.com/mister-kin
 [Weibo]: https://weibo.com/6270111192/profile?topnav=1&wvr=6&is_all=1
 [Bilibili]: http://space.bilibili.com/17025250?
 [Youku]: http://i.youku.com/i/UNjA3MTk5Mjgw?spm=a2hzp.8253869.0.0
-[Youtube]: https://www.youtube.com/channel/UCNhtdG6whC5mlRDkrhQ0wLA?view_as=public
+[YouTube]: https://www.youtube.com/channel/UCNhtdG6whC5mlRDkrhQ0wLA?view_as=public
 [Headline]: https://www.toutiao.com/c/user/835254071079053/#mid=1663279303982091
 [Zhihu]: https://www.zhihu.com/people/drwu-94
+[AcFun]: https://www.acfun.cn/u/73269306
 
 # Contact Me
 - E-mail: im.misterkin@gmail.com
