@@ -22,7 +22,7 @@ Hi! I'm Mr. Kin whose goal is to be an interesting geek.
 
 P.S. Please tell me your name when you contact me. Thanks in advance.
 
-![My GitHub Data](https://github-readme-stats.vercel.app/api?username=Mister-Kin) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mister-Kin&layout=compact)
+![My GitHub Data](https://github-readme-stats.vercel.app/api?username=Mister-Kin) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mister-Kin&exclude_repo=Mister-Kin.github.io,live2d-widget,hexo-helper-live2d,LanZouCloud-API&layout=compact)
 
 <p align="center">
   Visitor Count<br>
