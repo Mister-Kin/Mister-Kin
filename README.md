@@ -1,8 +1,10 @@
+<a title="Mr. Kin's Blog" href="https://mister-kin.github.io/"><img align="right" alt="logo" width="100" height="100" src="./logo.png"></a>
+
 # About Me
 Hi! I'm Mr. Kin whose goal is to be an interesting geek.
 
 # Follow Me
-![Search to Follow WeChat Official Accounts: MisterKin](./wechat_official_accounts_en.webp "Scan/Search to Follow WeChat Official Accounts: MisterKin")
+![Search to Follow WeChat Official Accounts: MisterKin](./wechat-official-accounts-en.webp "Scan/Search to Follow WeChat Official Accounts: MisterKin")
 
 > [Blog][] · [GitHub][] · [Weibo][] · [Zhihu][] · [AcFun][] · [Bilibili][] · [Youku][] · [Headline][] · [YouTube][]
 
